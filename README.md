@@ -142,3 +142,7 @@ bc.encode(['First do it', 'then do it right', 'then do it better'])
 3 [BERT-NER-CLI](https://github.com/JamesGu14/BERT-NER-CLI)
  
 4 [bert-as-service](https://github.com/hanxiao/bert-as-service)
+
+5 [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
+
+6 [pytorch-transformers](https://github.com/huggingface/pytorch-transformers)
