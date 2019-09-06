@@ -146,3 +146,7 @@ bc.encode(['First do it', 'then do it right', 'then do it better'])
 5 [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
 
 6 [pytorch-transformers](https://github.com/huggingface/pytorch-transformers)
+
+7 [OpenCLaP：多领域开源中文预训练语言模型仓库](https://github.com/thunlp/OpenCLaP)
+
+8 [中文预训练RoBERTa模型](https://github.com/brightmart/roberta_zh)
