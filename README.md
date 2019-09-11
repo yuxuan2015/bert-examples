@@ -108,7 +108,8 @@ python predict_cli.py
 
 ### 中文
 
-参考[BERT-Classify](https://github.com/yuxuan2015/BERT-Classify)
+[BERT-Classify](https://github.com/yuxuan2015/BERT-Classify)中训练及其部署NER微服务
+
 
 ## [bert-as-service](https://github.com/hanxiao/bert-as-service)
 
