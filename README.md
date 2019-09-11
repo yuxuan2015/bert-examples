@@ -106,6 +106,10 @@ python ner_predict.py
 python predict_cli.py
 ```
 
+### 中文
+
+参考[BERT-Classify](https://github.com/yuxuan2015/BERT-Classify)
+
 ## [bert-as-service](https://github.com/hanxiao/bert-as-service)
 
 依赖
