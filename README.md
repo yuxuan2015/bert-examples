@@ -152,3 +152,5 @@ bc.encode(['First do it', 'then do it right', 'then do it better'])
 8 [中文预训练RoBERTa模型](https://github.com/brightmart/roberta_zh)
 
 9 [DistilBERT](https://github.com/huggingface/pytorch-transformers/tree/master/examples/distillation)
+
+10 [互联网情感分析](https://github.com/guoday/CCF-BDCI-Sentiment-Analysis-Baseline)
