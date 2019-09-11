@@ -111,6 +111,11 @@ python predict_cli.py
 [BERT-Classify](https://github.com/yuxuan2015/BERT-Classify)中训练及其部署NER微服务
 
 
+## BERT情感分析
+
++ [CCF-BDCI-Sentiment-Analysis-Baseline](https://github.com/guoday/CCF-BDCI-Sentiment-Analysis-Baseline)
+
+
 ## [bert-as-service](https://github.com/hanxiao/bert-as-service)
 
 依赖
@@ -121,7 +126,7 @@ tensorflow>=1.11(运行bert的需要)
 
 安装
 ```
-pip install bert-serving-server  # server
+pip install bert-serving-server[http]  # server
 pip install bert-serving-client  # client, independent of `bert-serving-server`
 ```
 
@@ -140,22 +145,22 @@ bc.encode(['First do it', 'then do it right', 'then do it better'])
 
 ## Reference
 
-1 [BERT](https://github.com/google-research/bert)：google-BERT
++ [BERT](https://github.com/google-research/bert)：google-BERT
  
-2 [BERT-NER](https://github.com/kyzhouhzau/BERT-NER)
++ [BERT-NER](https://github.com/kyzhouhzau/BERT-NER)
 
-3 [BERT-NER-CLI](https://github.com/JamesGu14/BERT-NER-CLI)
++ [BERT-NER-CLI](https://github.com/JamesGu14/BERT-NER-CLI)
  
-4 [bert-as-service](https://github.com/hanxiao/bert-as-service)
++ [bert-as-service](https://github.com/hanxiao/bert-as-service)
 
-5 [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
++ [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
 
-6 [pytorch-transformers](https://github.com/huggingface/pytorch-transformers)
++ [pytorch-transformers](https://github.com/huggingface/pytorch-transformers)
 
-7 [OpenCLaP：多领域开源中文预训练语言模型仓库](https://github.com/thunlp/OpenCLaP)
++ [OpenCLaP：多领域开源中文预训练语言模型仓库](https://github.com/thunlp/OpenCLaP)
 
-8 [中文预训练RoBERTa模型](https://github.com/brightmart/roberta_zh)
++ [中文预训练RoBERTa模型](https://github.com/brightmart/roberta_zh)
 
-9 [DistilBERT](https://github.com/huggingface/pytorch-transformers/tree/master/examples/distillation)
++ [DistilBERT](https://github.com/huggingface/pytorch-transformers/tree/master/examples/distillation)
 
-10 [互联网情感分析](https://github.com/guoday/CCF-BDCI-Sentiment-Analysis-Baseline)
++ [BERT-互联网情感分析](https://github.com/guoday/CCF-BDCI-Sentiment-Analysis-Baseline)
